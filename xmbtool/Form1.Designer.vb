@@ -65,7 +65,7 @@ Partial Class Form1
         Me.VisutoolButton.Name = "VisutoolButton"
         Me.VisutoolButton.Size = New System.Drawing.Size(414, 23)
         Me.VisutoolButton.TabIndex = 3
-        Me.VisutoolButton.Text = "???"
+        Me.VisutoolButton.Text = "Coldtool"
         Me.VisutoolButton.UseVisualStyleBackColor = True
         '
         'ColdtoolButton
